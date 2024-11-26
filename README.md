@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there - thank you for visiting my Profil and my Projects 👋
 
 <!--
 **JoJos1220/JoJos1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Jojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jojos1220&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jojos1220&layout=compact)
